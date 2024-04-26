@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ASAMI-TAKAOKA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ASAMI-TAKAOKA&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **ASAMI-TAKAOKA/ASAMI-TAKAOKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
