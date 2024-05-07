@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASAMI-TAKAOKA)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,next,vue,nuxt,rails,ruby,laravel,php,python,firebase,docker,javascript,typescript,mysql,postgresql,postman&perline=3)](https://skillicons.dev)
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 -->
