@@ -1,15 +1,23 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ASAMI-TAKAOKA&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <a href="http://qiita.com/asami___t">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/asami___t/posts.svg" />
+  </a>
+  <a href="http://qiita.com/asami___t">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/asami___t/contributions.svg" />
+  </a>
+</p>
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ASAMI-TAKAOKA&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAMI-TAKAOKA" />
-</a>
-</div>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAMI-TAKAOKA)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASAMI-TAKAOKA)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASAMI-TAKAOKA)
 
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ASAMI-TAKAOKA)
+
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,next,vue,nuxt,rails,ruby,laravel,php,python,firebase,docker,javascript,typescript,mysql,postgresql,postman)](https://skillicons.dev)
 
 
